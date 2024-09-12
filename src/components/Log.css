@@ -1,0 +1,8 @@
+/* Custom CSS for background image */
+.bg-login {
+    background-image: url('../assets/sahara.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: brightness(50%) saturate(120%);
+}
